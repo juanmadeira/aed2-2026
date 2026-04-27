@@ -1,4 +1,4 @@
-from ListaCont import Lista
+from lista_linear import Lista
 
 lista = Lista(10)
 lista.InserirOtimizado(1,2)
